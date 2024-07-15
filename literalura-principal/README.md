@@ -21,9 +21,9 @@
 <h2>Como Executar o Projeto</h2>
 
  <h3>Clonar Repositório: Clone este repositório para sua máquina local.</h3>
-
-      ```bash
+ 
         git clone https://github.com/MatthsDev/desafio-alura-literalura.git
+        
  <p>2- Configure o banco de dados PostgreSQL.</p>
  <p>3- Atualize o arquivo de configuração application.properties com as credenciais do seu banco de dados.</p>
  <p>4- Execute o programa via console e navegue pelas opções do menu para explorar o catálogo de livros.</p>
