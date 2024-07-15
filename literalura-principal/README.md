@@ -2,7 +2,7 @@
 
 <h2>Visão Geral</h2>
 
-    Este projeto faz parte do desafio proposto pela Alura para desenvolver um catálogo de livros utilizando Java. O programa    interage com o usuário por meio de um menu no console, oferecendo funcionalidades para explorar e gerenciar informações sobre livros e autores.
+ <p>Este projeto faz parte do desafio proposto pela Alura para desenvolver um catálogo de livros utilizando Java. O programa    interage com o usuário por meio de um menu no console, oferecendo funcionalidades para explorar e gerenciar informações sobre livros e autores.</p>
 
 <h2>Funcionalidades</h2>
 
